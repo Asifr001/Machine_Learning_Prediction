@@ -1,1 +1,3 @@
-Different Machine Learning Tools like - SMOTE, GAN, CTGAN will be applied here.
+This project aims to address the critical challenge of predicting suicide risks by leveraging machine learning techniques. By analyzing survey data, the study focuses on understanding key predictors of suicide risks and improving prediction accuracy. To tackle the issue of imbalanced datasets, data augmentation techniques like synthetic data generation were implemented, ensuring robust model performance and reliable insights.
+
+Machine learning algorithms, including classification models and feature selection techniques, were utilized to identify significant predictors and enhance predictive accuracy. The goal of this project is to provide actionable insights that can guide targeted mental health interventions, enabling proactive measures to support at-risk individuals.
